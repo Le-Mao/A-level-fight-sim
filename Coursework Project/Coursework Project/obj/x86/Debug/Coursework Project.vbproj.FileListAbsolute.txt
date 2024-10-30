@@ -1,0 +1,12 @@
+c:\users\danie\onedrive\documents\visual studio 2010\Projects\Coursework Project\Coursework Project\obj\x86\Debug\Coursework_Project.Resources.resources
+c:\users\danie\onedrive\documents\visual studio 2010\Projects\Coursework Project\Coursework Project\obj\x86\Debug\Coursework Project.vbproj.GenerateResource.Cache
+c:\users\danie\onedrive\documents\visual studio 2010\Projects\Coursework Project\Coursework Project\obj\x86\Debug\Coursework_Project.GUI.resources
+C:\Users\danie\OneDrive\Documents\Visual Studio 2010\Projects\Coursework Project\Coursework Project\bin\Debug\Coursework Project.exe
+C:\Users\danie\OneDrive\Documents\Visual Studio 2010\Projects\Coursework Project\Coursework Project\bin\Debug\Coursework Project.pdb
+C:\Users\danie\OneDrive\Documents\Visual Studio 2010\Projects\Coursework Project\Coursework Project\bin\Debug\Coursework Project.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio 2010\Projects\Coursework Project\Coursework Project\obj\x86\Debug\Coursework Project.exe
+C:\Users\danie\OneDrive\Documents\Visual Studio 2010\Projects\Coursework Project\Coursework Project\obj\x86\Debug\Coursework Project.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio 2010\Projects\Coursework Project\Coursework Project\obj\x86\Debug\Coursework Project.pdb
+C:\Users\danie\OneDrive\Documents\Visual Studio 2010\Projects\Coursework Project\Coursework Project\Coursework Project\obj\x86\Debug\Coursework Project.exe
+C:\Users\danie\OneDrive\Documents\Visual Studio 2010\Projects\Coursework Project\Coursework Project\Coursework Project\obj\x86\Debug\Coursework Project.xml
+C:\Users\danie\OneDrive\Documents\Visual Studio 2010\Projects\Coursework Project\Coursework Project\Coursework Project\obj\x86\Debug\Coursework Project.pdb
