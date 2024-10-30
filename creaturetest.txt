@@ -1,0 +1,10 @@
+<creatures>
+	<creature>
+		<name> dan </name>
+		<atkmod> -1 </atkmod>
+	</creature>
+	<creature>
+		<name> tim </name>
+		<atkmod> 7 </atkmod>
+	</creature>
+</creatures>
